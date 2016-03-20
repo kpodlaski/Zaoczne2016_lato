@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts date="2016-03-20">
+	<person>
+		<name>Tomasz</name>
+		<surname>Kowalski</surname>
+		<address>Adres1</address>
+		<city>Opoczno</city>
+		<phone>222322232</phone>
+	</person>
+	<person>
+		<name>Tamara</name>
+		<surname>Kowalska</surname>
+		<city>Opoczno</city>
+		<phone>22232666</phone>
+	</person>
+	<person>
+		<name>Jolanta</name>
+		<surname>Kowalska</surname>
+		<address>Adres1</address>
+		<city>Opoczno</city>
+	</person>
+</contacts>
